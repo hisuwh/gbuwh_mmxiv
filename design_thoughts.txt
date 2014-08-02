@@ -1,0 +1,7 @@
+Design ought to build on existing one - to encourage adoption
+Needs modernising:
+ - make use of wider screens
+ - responsive for mobile screens
+ - navigation needs to be simplified
+ - most important information needs to be clear on front screen
+ - adopt a flatter design?

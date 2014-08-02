@@ -1,0 +1,4 @@
+Key thing for getting started is an itemised list of required functionality.
+David said that 90% of the functionality is for 10% of the users, could it be made clear what this is?
+
+What is already implemented and important needs to be prioritised above new features.
